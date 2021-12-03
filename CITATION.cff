@@ -13,6 +13,7 @@ authors:
   given-names: "Abhinav"
 title: "Emotional TTS Dataset in Indian English"
 abstract : "This dataset contains 9 emotion tonalities in Indian English; each tonality is of 30 mins duration."
+type: dataset
 keywords:
   - "Emotion"
   - "TTS"

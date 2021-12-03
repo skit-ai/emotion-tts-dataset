@@ -14,6 +14,9 @@ This release contains data for the following 9 emotions by the same speaker in a
 - sad
 - surprise
 
-The base is a neutral emotion and there are 8 other emotion. There are 30 mins of data for each of the 9 emotions. 
+The base is a neutral emotion and there are 8 other emotion. There are 30 mins of data for each of the 9 emotions.
 Under the folder for each emotion, there is a metadata.csv file which contains the transcripts for the recordings.
 
+## Citation
+
+Please cite using the link in the About section on the right.
