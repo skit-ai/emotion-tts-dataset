@@ -1,5 +1,5 @@
 # emotion-tts-dataset
-Dataset release for Emotional TTS in Indian English Accent
+Dataset release for an Emotional TTS in Indian English Accent
 
 The dataset can be downloaded by clicking on this [link](https://emotion-tts.s3.ap-south-1.amazonaws.com/emotions.zip).
 
@@ -21,7 +21,7 @@ Under the folder for each emotion, there is a metadata.csv file which conatins t
 
 When using this dataset please use the below citation.
 
-'''
+```
 @misc{Skit2021,
   author = {Skit},
   title = {Emotion TTS Dataset in Indian English},
@@ -30,4 +30,4 @@ When using this dataset please use the below citation.
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/skit-ai/emotion-tts-dataset}}
 }
-'''
+```
