@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+authors:
+- family-names: "Dalmia"
+  given-names: "Swaraj"
+- family-names: "Tamuly"
+  given-names: "Kaustav"
+- family-names: "Mishra"
+  given-names: "Pulkit"
+- family-names: "Raaja"
+  given-names: "Shangeth"
+- family-names: "Tushar"
+  given-names: "Abhinav"
+title: "Emotional TTS Dataset in Indian English"
+abstract : "This dataset contains 9 emotion tonalities in Indian English; each tonality is of 30 mins duration."
+keywords:
+  - "Emotion"
+  - "TTS"
+version: 1.0.0
+date-released: 2021-12-02
+url: "https://github.com/skit-ai/emotion-tts-dataset"
+license: MIT
