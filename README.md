@@ -3,8 +3,8 @@ Dataset release for an Emotional TTS in Indian English Accent
 
 ## About
 
-This release contains data for the following 9 emotions (base is neutral) by the same speaker in an Indian English Accent :
-- base
+This release contains data for the following 9 emotions by the same speaker in an Indian English Accent :
+- base (neutral emotion)
 - angry
 - apologetic
 - calm
@@ -15,7 +15,9 @@ This release contains data for the following 9 emotions (base is neutral) by the
 - surprise
 
 Duration : 30 mins of data for each emotion
+
 Frequency : 22.05 Khtz
+
 Structure :
 ```
 - base
