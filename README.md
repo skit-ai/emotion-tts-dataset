@@ -31,6 +31,8 @@ Structure :
 .
 ```
 
+More information regarding the dataset can be found under datasheet.md.
+
 ## Download
 
 The dataset can be downloaded by clicking on this [link](https://emotion-tts.s3.ap-south-1.amazonaws.com/emotions.zip).
