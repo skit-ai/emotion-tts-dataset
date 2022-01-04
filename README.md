@@ -38,3 +38,7 @@ The dataset can be downloaded by clicking on this [link](https://emotion-tts.s3.
 ## Citation
 
 If you are using this dataset, please cite using the link in the About section on the right.
+
+## License
+
+This dataset is shared under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) Licence.
