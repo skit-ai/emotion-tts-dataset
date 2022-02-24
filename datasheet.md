@@ -80,7 +80,8 @@ Q15) What (other) tasks could the dataset be used for ?
 
 This dataset can be used for the following :
 - Low Resource Emotional TTS in Indian English Accent
-- Single Speaker Emotion Recognition. This TTS dataset, unlike typical read speech is recorded in a conversational tonality.
+- Transfer learning for emotion prosody for the 9 tonalities that we provide. 
+- Single Speaker Emotion Recognition. This TTS dataset, unlike typical read speech is recorded in a conversational tonality and therefore is a good first step to evaluate models for emotion recognition in indian english. Since it is conversational, it will generalise more to unscripted natual conversations.
 - Disentanglement of Acoustic Emotional Information from Text Sentiment. Since the text for the recordings were curated in such a way such that there were some uncorrelated texts added for each emotion.
 
 ## Distribution and Maintenance
