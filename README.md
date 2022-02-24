@@ -1,9 +1,8 @@
-# emotion-tts-dataset
-Dataset release for an Emotional TTS in Indian English Accent
-
 ## About
 
-This release contains data for the following 9 emotions by the same speaker in an Indian English Accent :
+This is a dataset for emotional TTS in an Indian English Accent. As per our knowledge it is the first public dataset for emotions in an Indian English Accent and one of the few Emotional TTS datasets out there. The dataset contains 30 mins of audio recordings in various emotions and can be primarily used for a low-resource emotional TTS. 
+
+This release contains data for the following 9 emotions by the same female speaker in an Indian English Accent :
 - base (neutral emotion)
 - angry
 - apologetic
