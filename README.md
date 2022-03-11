@@ -1,6 +1,6 @@
 ## About
 
-This is a dataset for emotional TTS in an Indian English Accent. As per our knowledge it is the first public dataset for emotions in an Indian English Accent and one of the few Emotional TTS datasets out there. The dataset contains 30 mins of audio recordings in various emotions and can be primarily used for a low-resource emotional TTS. 
+This is a dataset for emotional TTS in an Indian English Accent. As per our knowledge it is the first public dataset for emotions in an Indian English Accent and one of the few Emotional TTS datasets out there. The dataset contains 30 mins of audio recordings in various emotions.
 
 This release contains data for the following 9 emotions by the same female speaker in an Indian English Accent :
 - base (neutral emotion)
@@ -31,6 +31,11 @@ Structure :
 ```
 
 More information regarding the dataset can be found under datasheet.md.
+
+## Uses
+
+There are quite a few TTS systems out there - you could even train your own, using an open-source dataset. But can we add emotions to this generated speech ? A naive approach could be to collect a large dataset of emotional speech - think LJ Speech in size but labelled with emotions. Instead, with this dataset we explore a different and less data-intensive approach - fine-tune a standard TTS system using a limited amount of emotional data. Essentially, our dataset explores how to build a **low-resource emotional TTS**.
+
 
 ## Download
 
