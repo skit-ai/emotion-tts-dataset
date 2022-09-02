@@ -2,7 +2,7 @@
 
 This is a dataset for emotional TTS in an Indian English Accent. As per our knowledge it is the first public dataset for emotions in an Indian English Accent and one of the few Emotional TTS datasets out there. The dataset contains 30 mins of audio recordings in various emotions from a single speaker.
 
-## Download and License
+## Download and Usage
 
 The dataset can be downloaded by clicking on this [link](https://emotion-tts.s3.ap-south-1.amazonaws.com/emotions.zip). Incase you face any issues please reach out to swaraj@skit.ai.
 
@@ -47,3 +47,16 @@ More information regarding the dataset can be found under datasheet.md.
 ## Citation
 
 If you are using this dataset, please cite using the link in the About section on the right.
+
+## License
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
